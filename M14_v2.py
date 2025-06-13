@@ -7,6 +7,17 @@ Original file is located at
     https://colab.research.google.com/drive/1gCmZuFP6UoYECPJsrShLoe3MX-BEVmwg
 
 # **MÓDULO 14 - Exercício**
+
+O que é churn?
+
+Churn (ou taxa de rotatividade) é a porcentagem de clientes que deixam de usar um produto ou serviço num determinado período.
+Fórmula:
+Churn Rate (%)=Clientes perdidosClientes no inıˊcio do perıˊodo×100
+Churn Rate (%)=Clientes no inıˊcio do perıˊodoClientes perdidos​×100
+
+
+
+
 # Pré Processamento dos Dados - A primeira etapa Pré Modelagem
 
 Para nossa atividade usaremos uma base de churn também, porém essa base não diz respeito a serviços bancários e sim serviços de internet, telefone e tv - Telecomunicação.
